@@ -13,12 +13,12 @@ class MainClass {
     m1.soyad = "Kerimoğlu";
             
     Musteri m2 = new Musteri();
-    m2.id=1007;
+    m2.id = 1007;
     m2.ad = "Menderes";
     m2.soyad = "Mermertay";
 
     Musteri m3 = new Musteri();
-    m3.id=1023;
+    m3.id = 1023;
     m3.ad = "Hakan";
     m3.soyad = "Kartal";
            
